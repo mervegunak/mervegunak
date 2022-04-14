@@ -12,7 +12,7 @@
 
 I’m a creative, passionate, curious and continuous learner with a strong math and statistics background. 
 
-I am passionately curious about data and have 2 years of experience in :
+I am passionately curious about data and have 3 years of experience in :
 
 * Data Analysis & Visualization,
 * Predictive Modelling,
