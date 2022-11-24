@@ -16,6 +16,5 @@ My main focuses are in Predictive & Mathematical Modeling, Machine Learning, and
 
 Recently, I've been developing myself in DevOps field.
 
-I use Python and SQL as a programming language.
 
 I continue to grow my skills :bee:
