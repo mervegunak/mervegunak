@@ -10,14 +10,11 @@
 
 <br />
 
-I’m a creative, passionate, curious and continuous learner with a strong math and statistics background. 
+I am a self-learner, creative and analytical minded Data Scientist with 3 years hands-on experience. 
 
-I am passionately curious about data and have 3 years of experience in :
+My main focuses are in Predictive & Mathematical Modeling, Machine Learning, and Time Series. I love doing that process of analyzing data to achieve actionable insights and spend a lot of time dedicated to my own continuous improvement and development. 
 
-* Data Analysis & Visualization,
-* Predictive Modelling,
-* Machine Learning and Deep Learning,
-* Data Mining and Time Series Analysis.
+Recently, I've been developing myself in DevOps field.
 
 I use Python and SQL as a programming language.
 
