@@ -10,11 +10,11 @@
 
 <br />
 
-I am a self-learner, creative and analytical minded Data Scientist with 3 years hands-on experience. 
+I am a self-learner, creative and analytical minded Data Scientist with almost 4 years hands-on experience. 
 
 My main focuses are in Predictive & Mathematical Modeling, Machine Learning, and Time Series. I love doing that process of analyzing data to achieve actionable insights and spend a lot of time dedicated to my own continuous improvement and development. 
 
-Recently, I've been developing myself in DevOps field.
+Recently, I've been developing myself in Data Engineering field.
 
 
 I continue to grow my skills :bee:
