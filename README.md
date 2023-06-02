@@ -2,19 +2,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg)](https://www.linkedin.com/in/merve-gunak)
 [<img align="left" alt="twitter | twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mervegunak)
 
 <br />
 
 [twitter]: https://twitter.com/mervgunak
 [gmail]: mailto:mervegunak@gmail.com
 
+
 <br />
 
-I am a self-learner, creative and analytical minded Data Scientist with almost 4 years hands-on experience. 
-
-My main focuses are in Predictive & Mathematical Modeling, Machine Learning, and Time Series. I love doing that process of analyzing data to achieve actionable insights and spend a lot of time dedicated to my own continuous improvement and development. 
-
-Recently, I've been developing myself in Data Engineering field.
+For the past four years, I have been fully immersed in the software industry, diving deep into the enchanting world of data. As a data scientist, I have had the privilege of exploring diverse domains and embracing various roles, consistently expanding my knowledge and skill set. I actively enhance my expertise in data engineering, building upon my existing strengths. 
 
 
-I continue to grow my skills :bee:
+I am dedicated to pushing the boundaries of my skills and knowledge, constantly seeking opportunities for self-improvement. :bee:
