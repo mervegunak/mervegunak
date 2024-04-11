@@ -12,7 +12,7 @@
 
 <br />
 
-For the past four years, I have been fully immersed in the software industry, diving deep into the enchanting world of data. As a data scientist, I have had the privilege of exploring diverse domains and embracing various roles, consistently expanding my knowledge and skill set. I actively enhance my expertise in data engineering, building upon my existing strengths. 
+For the past five years, I have been fully immersed in the software industry, diving deep into the enchanting world of data. As a data scientist, I have had the privilege of exploring diverse domains and embracing various roles, consistently expanding my knowledge and skill set. I actively enhance my expertise in data engineering, building upon my existing strengths. 
 
 
 I am dedicated to pushing the boundaries of my skills and knowledge, constantly seeking opportunities for self-improvement. :bee:
